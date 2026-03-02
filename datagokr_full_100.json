@@ -1,0 +1,4102 @@
+[
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157489",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157489/fileData.do",
+    "title": null,
+    "description_long": "□ 데이터 개요o (대상): 전국 검진 담당 보건소 정보 연계o (내용): 2026.1.1 기준의  보건소 기호, 사업적용일자, 보건소명, 우편번호, 주소, 국가암검진 담당연락처, 일반검진 담당연락처, 영유아검진 담당 연락처 등  2026.1.1. 기준 현행화된 자료 보유※ 본 데이터는 2026.1.1. 기준자료로 연 중간 보건소 정보 변동이 있을 수 있습니다.※ 본 연락처는 공공데이터 포털로 제공 중인 데이터의 개방 및 관리를 총괄하는 부서로 해당 데이터의 내용(항목별 설명, 발췌 기준 등)과 무관한 건강보험제도, 개인의 자격,징수,급여 관련 문의는 공단 대표번호(1577-1000)로 하시기 바랍니다.",
+    "classification": {
+      "category_main": "사회복지 - 보건의료",
+      "provider_type": "국민건강보험공단"
+    },
+    "resources_meta": {
+      "extension": "XLSX",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "국민건강보험공단",
+      "department": "빅데이터운영실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "531",
+      "download_count": "29"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157514",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157514/fileData.do",
+    "title": null,
+    "description_long": "<국민건강보험공단_상병별 진료현황>1. 구분: 건강보험2. 진료년도: 2022년~2024년3. 발췌기준- 진료일 기준- 2025년 6월 지급분까지 반영(청구소멸시효 3년 이내 자료는 변동될 수 있음)- 환자수는 연내 중복을 제외한 실 인원수임4. 주상병코드: F067※ 개인정보 보호를 위해 5미만 값은 비식별처리(*)하여 제공합니다. ('계'값으로 비식별화 된 항목이 추론 가능한 경우 '계'값 또한 비식별 처리)※ 질병통계는 요양기관에서 환자 진료 중 진단명이 확정되지 않은 상태에서의 호소, 증세 등에 따라 일차 진단명을 부여하고 청구한 내역 중 주진단명 기준으로 발췌한 것이므로 최종 확정 된 질병과는 다를 수 있습니다.※ 민원인의 공공데이터 제공 신청에 따라 발췌 및 구성된 데이터이며 본 데이터와 무관한 건강보험제도, 개인의 자격, 징수, 급여, 장기요양 관련 문의는 공단 대표번호(1577-1000)로 하시기 바랍니다.",
+    "classification": {
+      "category_main": "사회복지 - 보건의료",
+      "provider_type": "국민건강보험공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "국민건강보험공단",
+      "department": "빅데이터운영실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-27",
+      "updated_at": "2026-02-27",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "92",
+      "download_count": "6"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15099500",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15099500/fileData.do",
+    "title": null,
+    "description_long": "광주광역시 북구 음식물류폐기물 다량배출사업장정보 데이터입니다.광주광역시 북구에 위치한 음식물류폐기물 다량배출사업장의 상호, 사업장전화번호, 사업장도로명주소, 사업장구분, 데이터기준일의 항목에 대한 정보를 공공데이터포털을 통해 CSV 파일로 제공합니다.* 사업장전화번호 컬럼의 경우 업소의 정확한 유선전화번호 확인이 어렵거나 휴대전화번호만 존재하고 유선전화번호가 없는 경우 공란으로 두었습니다.** 사업장도로명주소 컬럼의 각 셀마다 주소 끝부분에 추가로 별도 기재한 괄호 안의 지역 동명은 모두 법정동 기준으로 작성되었습니다.",
+    "classification": {
+      "category_main": "환경 - 폐기물",
+      "provider_type": "광주광역시 북구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주광역시 북구",
+      "department": "데이터정보과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "338",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15111714",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15111714/fileData.do",
+    "title": null,
+    "description_long": "입주예정월",
+    "classification": {
+      "category_main": "지역개발 - 지역및도시",
+      "provider_type": "한국부동산원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국부동산원",
+      "department": "ICT전략부 데이터인프라관리팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2023-01-05",
+      "updated_at": "2026-02-27",
+      "update_cycle": "반기"
+    },
+    "stats": {
+      "row_count": "675",
+      "download_count": "5028"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15107554",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15107554/fileData.do",
+    "title": null,
+    "description_long": "구분",
+    "classification": {
+      "category_main": "공공질서및안전 - 경찰",
+      "provider_type": "경찰청 서울특별시경찰청"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경찰청 서울특별시경찰청",
+      "department": "서울지하철경찰대",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2022-10-21",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "5",
+      "download_count": "1048"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15024923",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15024923/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 광역위생매립장 침출수 처리 현황에 대한 데이터로, 매립장에서 발생하는 침출수의 발생 및 처리 실적을 월별로 구분하여 제공합니다. 해당 데이터에는 월 단위로 집계된 침출수 발생량(월발생량)과 처리량(월처리량), 그리고 일평균 발생량(일발생량) 및 처리량(일처리량) 등의 항목이 포함되어 있어, 침출수의 발생 추이와 처리 효율을 체계적으로 파악할 수 있도록 구성되어 있습니다. 이 데이터는 침출수 관리계획 수립, 처리시설 운영 효율성 평가, 환경오염 예방 및 대응 방안 마련 등에 활용될 수 있으며, 친환경 매립장 운영과 지속가능한 폐기물 관리정책 수립을 위한 기초자료로도 유용하게 활용됩니다.",
+    "classification": {
+      "category_main": "환경 - 폐기물",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "12",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3080587",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3080587/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 광역위생매립장 폐기물 반입현황에 대한 데이터로, 매립장으로 반입되는 폐기물의 규모와 반입 현황을 월별로 구분하여 제공합니다. 해당 데이터에는 월별 반입차량대수, 총 반입량, 반입일수, 일평균 반입량 등의 항목이 포함되어 있어, 폐기물 반입 추이를 체계적으로 분석할 수 있도록 구성되어 있습니다. 이 데이터는 매립장 운영 효율성 평가, 폐기물 처리계획 수립, 적정 반입관리 및 시설 용량 검토 등의 행정적 활용은 물론, 폐기물 발생량 모니터링과 환경정책 수립을 위한 기초자료로도 유용하게 활용될 수 있습니다.",
+    "classification": {
+      "category_main": "환경 - 폐기물",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "12",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15077273",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15077273/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 비점오염저감시설 운영현황에 대한 데이터로, 공단이 관리하는 각 비점오염저감시설의 주요 정보를 제공합니다. 데이터에는 시설유형에 따른 시설규모, 소재지 주소, 사업기간, 주요 오염원, 담수량 등의 항목이 포함되어 있어 시설별 특성과 운영현황을 종합적으로 파악할 수 있도록 구성되어 있습니다. 이 데이터는 도시에서 발생하는 비점오염원의 저감 효과 분석, 수질개선 정책 수립, 시설 운영계획 수립 등에 활용될 수 있으며, 환경관리의 체계성과 지속가능성을 높이기 위한 기초자료로도 유용하게 쓰일 수 있습니다.",
+    "classification": {
+      "category_main": "환경 - 환경일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "5",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15127417",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15127417/fileData.do",
+    "title": null,
+    "description_long": "서울특별시경찰청 관할 25개 자치구의 31개 경찰서에서 단속한 교통법규 위반 사례들을 위반 유형별로 정리한 통계 자료입니다. 이 데이터는 중앙선 침범, 신호위반, 음주운전, 무면허운전, 속도위반 등 대표적인 교통법규 위반 항목들을 포함하며, 위반 유형별로 단속된 건수와 발생 시기 등을 상세히 제공합니다. 경찰서별로 단속 유형에 따른 차종 및 위반장소 등의 정보도 포함되어 있어 교통안전 정책 수립, 사고 예방 캠페인, 지역별 단속 집중 운영 등 다양한 공공 목적에 활용될 수 있는 구조화된 자료입니다.",
+    "classification": {
+      "category_main": "공공질서및안전 - 경찰",
+      "provider_type": "경찰청 서울특별시경찰청"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경찰청 서울특별시경찰청",
+      "department": "교통안전과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "32",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15007293",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15007293/fileData.do",
+    "title": null,
+    "description_long": "폐기물분류",
+    "classification": {
+      "category_main": "환경 - 환경일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-02-20",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "14",
+      "download_count": "94"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3080582",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3080582/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 영산강 자전거길 안내센터 운영 현황에 대한 데이터로, 안내센터를 통해 제공되는 자전거 대여 서비스의 이용 실적을 월별로 구분하여 제공합니다. 데이터에는 월별 대여건수와 대여수량은 물론, 남성이용자수와 여성이용자수 항목이 포함되어 있어 성별에 따른 이용 특성과 수요 분포를 함께 분석할 수 있도록 구성되어 있습니다. 이를 통해 자전거 이용 활성화 정책 수립, 성별 맞춤형 이용 환경 개선, 계절별 수요 예측 등 다양한 행정적·운영적 활용이 가능하며, 시민 생활체육 활성화 및 친환경 교통문화 확산을 위한 기초자료로도 유용하게 활용될 수 있습니다.",
+    "classification": {
+      "category_main": "문화체육관광 - 문화체육관광일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "12",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15048038",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15048038/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 위생처리장 분뇨 반입현황에 대한 데이터로, 공단이 운영하는 위생처리장에 월별로 반입된 분뇨 처리 실적을 제공합니다. 데이터에는 월별 반입일수를 비롯하여, 동구, 서구, 남구, 북구, 광산구 등 광주광역시 각 자치구별 분뇨 반입량과 전체 반입량 합계 항목이 포함되어 있습니다. 이를 통해 지역별 분뇨 발생 및 처리량 현황을 파악할 수 있으며, 위생처리장 운영 효율성 분석, 자치구 간 처리 분담 현황 모니터링, 정책 수립 등을 위한 기초자료로 활용될 수 있습니다. 또한 계절별 수요 변화나 지역 간 편차를 분석해 향후 처리시설 확충 및 운영계획 수립에 기여할 수 있습니다.",
+    "classification": {
+      "category_main": "환경 - 폐기물",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "12",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3080834",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3080834/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 유지용수 관리 현황에 대한 데이터로, 광주환경공단이 운영하는 주요 방류 현황을 월별로 구분하여 제공합니다. 해당 데이터에는 유수취수시설과 여과펌프시설의 월별 방류량(세제곱미터) 항목이 포함되어 있으며, 이를 통해 하천 수질 유지 및 수생태계 보호를 위한 유지용수 공급 실적을 체계적으로 파악할 수 있습니다. 본 데이터는 하천관리 정책 수립, 유지용수 수급 계획, 환경영향 분석 등의 기초자료로 활용될 수 있으며, 계절별·시설별 방류 추이를 비교 분석하는 데에도 유용하게 활용됩니다.",
+    "classification": {
+      "category_main": "환경 - 상하수도·수질",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "12",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15029626",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15029626/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 음식물관리처 폐기물 반입 현황에 대한 데이터로, 공단이 운영하는 음식물자원화시설을 구분하여 폐기물 반입 관련 주요 정보를 제공합니다. 데이터에는 시설별 월별 반입일수를 비롯해, 동구·서구·남구·북구·광산구 등 광주광역시 각 자치구에서 반입된 음식물폐기물의 반입량 항목이 포함되어 있습니다. 이를 통해 지역별 폐기물 발생량과 처리 현황을 비교·분석할 수 있으며, 음식물자원화시설의 가동률, 운영 효율성, 자원순환 정책 수립 등에 활용될 수 있습니다. 또한 자치구 간 협력 기반의 폐기물 감량 정책 수립 및 모니터링 자료로도 유용하게 활용될 수 있습니다.",
+    "classification": {
+      "category_main": "환경 - 폐기물",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "24",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15029628",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15029628/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 체육시설 이용현황에 대한 데이터로, 공단이 운영하는 주요 체육시설인 승촌보 캠핑장, 승촌보 축구장, 효천하수처리장 멀티스타디움의 월별 이용 현황 정보를 제공합니다. 해당 데이터는 광주환경공단의 각 시설별 이용자 수 월 단위의 이용 추이를 파악할 수 있도록 구성되어 있으며, 계절별 수요 분석, 시설 운영 효율성 평가, 향후 이용 활성화 방안 수립 등에 활용될 수 있습니다. 또한 공공 체육시설의 개방성과 접근성을 높이기 위한 정책적 근거자료로 활용될 수 있으며, 지역주민의 여가·체육 활동 지원 측면에서도 의미 있는 자료입니다.",
+    "classification": {
+      "category_main": "문화체육관광 - 문화체육관광일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "12",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3080829",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3080829/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단의 환경교육프로그램 운영현황에 대한 데이터로, 공단이 추진한 다양한 환경교육 활동의 주요 내용을 제공합니다. 해당 데이터에는 프로그램별 교육내용과 함께, 교육의 주요 대상(예: 학생, 지역주민, 공공기관 등), 운영기간, 운영방법(예: 집합교육, 온라인교육, 체험형 교육 등), 그리고 향후 추진계획 등이 포함되어 있어, 공단의 환경교육 전반에 대한 체계적인 이해와 활용이 가능하도록 구성되어 있습니다. 이 데이터는 환경 인식 제고를 위한 교육 정책 수립, 유사 기관의 벤치마킹 자료, 지역사회 협력방안 도출 등 다양한 목적으로 활용될 수 있습니다.",
+    "classification": {
+      "category_main": "교육 - 교육일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "HWPX",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15048039",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15048039/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 하수처리시설 견학 현황에 대한 데이터로, 공단이 운영하는 제1하수처리장, 제2하수처리장, 효천하수처리장을 대상으로 한 월별 견학 인원 정보를 제공합니다. 해당 데이터는 각 처리장별로 월 단위로 집계된 견학 참여 인원이 포함되어 있으며, 환경교육 및 공공시설 개방 현황을 파악하는 데 활용될 수 있도록 구성되어 있습니다. 이 데이터는 시민 환경 인식 제고, 시설 홍보 효과 분석, 교육 프로그램 개선 및 확대 운영을 위한 기초자료로 활용될 수 있으며, 계절별·시설별 견학 수요 분석에도 유용하게 쓰일 수 있습니다.",
+    "classification": {
+      "category_main": "교육 - 교육일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "12",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15069328",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15069328/fileData.do",
+    "title": null,
+    "description_long": "시설명",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 에너지및자원개발",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-02-20",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "10",
+      "download_count": "56"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15144440",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15144440/fileData.do",
+    "title": null,
+    "description_long": "해당년도의 고용보험 주요 사업 운영 성과, 고용보험 사업 설명, 고용보험 연혁, 고용보험 관련 각종 통계 등을 수록한 고용보험백서 입니다.(구성 요약: 제1편 고용보험제도 운영 성과 / 제2편 고용보험제도의 개요 / 제3편 고용보험사업 주요 현황 - 고용안정사업, 직업능력개발사업, 실업급여, 모성보호제도 및 일가정 양립 지원, 자영업자 고용보험(실업급여), 예술인 노무제공자 고용보험, 고용보험심사제도 / 제4편 고용보험재정 / 제5편 부록 / 그외 고용보험제도 그간의 변천과정 등)고용노동부에서 매년 발행하며 그 시기는 유동적입니다.",
+    "classification": {
+      "category_main": "사회복지 - 고용노동",
+      "provider_type": "고용노동부"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "고용노동부",
+      "department": "고용보험기획과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2025-07-11",
+      "updated_at": "2026-02-27",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "64"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157503",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157503/fileData.do",
+    "title": null,
+    "description_long": "<국민건강보험공단_2020~2024년 진료현황>1. 구분: 건강보험2. 진료연도: 2020년~2024년3. 연령그룹: 0~17세, 18~40세, 41~59세, 60세이상4. 발췌기준- 진료일 기준- 2025년 6월 지급분까지 반영- 진료인원은 연내 중복을 제외한 실 인원수- 연령은 환자의 진료시점 연도 말 만 나이 기준5. 주상병코드: G1220, G1221※ 개인정보보호를 위해 '5' 미만 값은 비식별화하여 제공합니다. '계' 값으로 유추가 가능한 경우 '계'값을 포함하여 비식별화합니다.※ 질병통계는 요양기관에서 환자 진료 중 진단명이 확정되지 않은 상태에서의 호소, 증세 등에 따라 일차 진단명을 부여하고 청구한 내역 중 주진단명 기준으로 발췌한 것이므로 최종 확정 된 질병과는 다를 수 있습니다.※ 민원인의 공공데이터 제공 신청에 따라 발췌 및 구성된 데이터이며 본 데이터와 무관한 건강보험제도, 개인의 자격, 징수, 급여, 장기요양 관련 문의는 공단 대표번호(1577-1000)로 하시기 바랍니다.",
+    "classification": {
+      "category_main": "사회복지 - 보건의료",
+      "provider_type": "국민건강보험공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "국민건강보험공단",
+      "department": "빅데이터운영실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-27",
+      "updated_at": "2026-02-27",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "19",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15102597",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15102597/fileData.do",
+    "title": null,
+    "description_long": "서울특별시 마포구의 월별 재활용폐기물 현황에 대한 정보입니다. 이 데이터에는 2016년 1월부터 2024년 12월까지 월별로 각 재활용폐기물이 발생한 구체적인 행정 구역 정보(예: 시도명, 시군구명)와 함께, 재활용폐기물(단위: 톤)에 대한 정보가 포함되어 있습니다. 이 데이터를 통해 재활용품의 품목별 배출 현황과 지역별 처리 실태를 한눈에 파악할 수 있습니다. 이를 바탕으로 효율적인 자원순환 정책 수립은 물론, 수거 인프라 보완이나 과다 배출 지역에 대한 맞춤형 관리가 가능합니다. 또한 주민 대상 분리배출 교육 자료로 활용해 재활용률을 높이고, 폐기물 감량과 탄소배출 저감에도 기여할 수 있습니다.",
+    "classification": {
+      "category_main": "환경 - 환경일반",
+      "provider_type": "서울특별시 마포구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "서울특별시 마포구",
+      "department": "스마트정책과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2022-07-22",
+      "updated_at": "2026-02-27",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "148"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15098933",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15098933/fileData.do",
+    "title": null,
+    "description_long": "서울특별시 마포구에 신고된 푸드트럭 운영 현황에 대한 정보입니다. 이 데이터에는 푸드트럭이 위치한 장소의 도로명 주소 및 상세 운영 장소(예: 마포농수산물시장내, 문화비축기지, 월드컵경기장 북측광장 일대, 부설주차장, 홍익대학교 서울캠퍼스 운동장, 행정동명 등)가 포함되어 있습니다. 또한, 각 푸드트럭의 업소명과 업종명(예: 휴게음식점 등)에 대한 정보도 함께 제공됩니다. 이 데이터를 통해 시민들은 가까운 곳에서 운영 중인 푸드트럭을 손쉽게 찾고, 다양한 먹거리와 편의를 즐길 수 있습니다. 이를 바탕으로 특정 지역의 수요 대비 공급 현황을 분석하고, 행사·축제와 연계한 공간 활용 정책을 수립하는 데 활용할 수 있습니다.",
+    "classification": {
+      "category_main": "문화체육관광 - 문화체육관광일반",
+      "provider_type": "서울특별시 마포구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "서울특별시 마포구",
+      "department": "스마트정책과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2022-02-11",
+      "updated_at": "2026-02-27",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "349"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15089211",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15089211/fileData.do",
+    "title": null,
+    "description_long": "분류",
+    "classification": {
+      "category_main": "교육 - 교육일반",
+      "provider_type": "인사혁신처"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "인사혁신처",
+      "department": "인사혁신처 국가공무원인재개발원 연구개발센터 스마트개발과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-02-27",
+      "updated_at": "2026-02-27",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "785",
+      "download_count": "85"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15034781",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15034781/fileData.do",
+    "title": null,
+    "description_long": "연번",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "서울특별시 광진구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "서울특별시 광진구",
+      "department": "스마트정보과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2023-01-25",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "180",
+      "download_count": "546"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15139812",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15139812/fileData.do",
+    "title": null,
+    "description_long": "한국가스안전공사 가스안전연구원에서 발명하고 보유중인 특허에 대해 가스 산업체에 무료로 나눔한 목록을 제공합니다.해당 발명은 민간의 가스 안전관리 확산과 민간 기업 활용 지원을 위한 목적으로 무료나눔이 진행되었으며 그에 대한 정보를 제공하고 있습니다.발명의 명칭, 출원번호, 출원일, 등록번호, 등록일에 대한 데이터가 수록되어 있습니다.- 제공받은 업체에 대한 데이터는 해당 목록에서 제공하지 않습니다.- 해당 데이터는 연간 주기로 업데이트 제공됩니다.- 데이터기준일 : 2025년 12월 31일",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 산업진흥·고도화",
+      "provider_type": "한국가스안전공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국가스안전공사",
+      "department": "디지털혁신처/정보운영부/공공데이터운영팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "24",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15113993",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15113993/fileData.do",
+    "title": null,
+    "description_long": "푸른등대 기부장학사업은 학자금 지원의 사각지대를 보완하여 균등한 교육 기회를 제공하고, 사회 각 분야의 인재를 육성하기 위한 기부금 재원 장학 사업입니다. 한국장학재단에서는 매년 사업 홍보를 위한 기부 뉴스레터를 제작·발행하고 있으며, 제작한 뉴스레터를 장학생, 기부처 등에 발송하고 있습니다. 해당 데이터는 뉴스레터의 발송 일자, 발송 횟수 등 발송 내역입니다.뉴스레터는 \"한국장학재단 홈페이지(https://www.kosaf.go.kr) > 기부 > 푸른등대이야기 > 정기간행물 > 뉴스레터\"에서 확인가능 합니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "한국장학재단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국장학재단",
+      "department": "인재육성장학부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "49",
+      "download_count": "5"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157498",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157498/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 경기도 수원시 관내 자동차 등록 현황을 월별로 집계한 자료입니다. 행정구역별 자동차 등록 수를 참고하여 차량 과밀 지역 파악, 주차장 부족 지역 객관적 확인, 교통 혼잡 예상 지역 분석 가능 등에 활용할 수 있습니다. 단순 통계 지표 이상의 정책, 행정, 민간활용, 데이터 기반 행정 강화에 도움이 됩니다. 또한 자동차 수 대비 주차면 수 분석을 하거나 주차 부족률 계산이 가능하고 우선순위를 결정하는데 활용할 수 있습니다. 도시 계획 및 개발 정책에 활용도 가능합니다. 차량이 많은 지역은 대중교통 부족 가능성이 높을 수 있고 버스 노선 신설 근거 자료로 활용할 수 있습니다. 다양한 분야에 활용되기를 바랍니다.",
+    "classification": {
+      "category_main": "교통및물류 - 물류등기타",
+      "provider_type": "경기도 수원시"
+    },
+    "resources_meta": {
+      "extension": "XLSX",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "경기도 수원시",
+      "department": "AI전략과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "13",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15080876",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15080876/fileData.do",
+    "title": null,
+    "description_long": "대전광역시 상수도사업본부가 매년 1회 발간하는 「수돗물 품질보고서」 자료입니다.본 자료에는 다음과 같은 내용이 포함되어 있습니다.대전광역시 수돗물 공급 연혁정수장별 수질검사 결과 및 수질 기준 적합 여부정수 처리 공정 설명수돗물 관련 용어 정의수돗물 음용 및 절약 방법 안내상수도 지원사업 현황(복지 감면사업, 안심확인제 등)상수도 민원 연락처 안내수질검사 결과는 「먹는물 수질기준」에 따른 항목별 검사 결과를 포함하며, 해당 연도 기준으로 작성됩니다.과거 연도 보고서는 대전광역시 상수도사업본부 홈페이지 내 수질정보 메뉴에서 확인할 수 있습니다.본 자료는 대전광역시 수돗물의 수질 현황 및 상수도 관련 정책 정보를 제공하기 위한 공공정보입니다.",
+    "classification": {
+      "category_main": "환경 - 상하수도·수질",
+      "provider_type": "대전광역시 상수도사업본부"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "기타",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "대전광역시 상수도사업본부",
+      "department": "기획요금과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 상업적 이용금지 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2022-06-23",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "0",
+      "download_count": "121"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15034277",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15034277/fileData.do",
+    "title": null,
+    "description_long": "제어번호",
+    "classification": {
+      "category_main": "교통및물류 - 철도",
+      "provider_type": "한국철도기술연구원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국철도기술연구원",
+      "department": "정보지원실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2024-12-30",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "6330",
+      "download_count": "84"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15052515",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15052515/fileData.do",
+    "title": null,
+    "description_long": "- 한국농어촌공사에서 관리하고 있는 새만금 유역 동진대교에 대한 수위 데이터 입니다.- 동진대교는 전북 김제시, 부안군 경계 동진강 하류에 설치된 다리로 새만금으로 흘러 들어가는 주요 하천 중 하나입니다.- 본 데이터는 동진대교 수위 계측 정보로 월별, 10분단위, 최대, 최소, 평균값을 제공하고 있으며- 계측자료가 없는 일자(시간)데이터는  계측장비의 정비, 점검, 통신이상 등의 현장 사정에 따라 누락 될 수 있습니다.- 수위계측 자료는 홍수 및 재해 대응에 활용 가능하며- 새만금 수자원 관리, 환경 모니터링, 정책 수립 등에 활용 가능합니다.",
+    "classification": {
+      "category_main": "공공질서및안전 - 안전관리",
+      "provider_type": "한국농어촌공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국농어촌공사",
+      "department": "새만금사업단",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "8760",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157496",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157496/fileData.do",
+    "title": null,
+    "description_long": "본 보고서는 태국 OTT 전문가를 대상으로 2025. 9. 2~ 9. 25 사이에 실시한 심층 인터뷰와 OTT 시장 문헌 조사를 통해 분석한 결과입니다. 또한, 보고서의 전문가 의견 및 문헌 조사 내용을 뒷받침하기 위해 국가별 6~8명의 K-콘텐츠 일반인 소비자를 대상으로 2025. 7. 16 ~ 9. 22 사이에 인터뷰가 진행되었습니다.  보고서는 인도의 OTT 시장 규모 및 순위, 관련 인프라 환경, 법률 및 규제 환경, OTT 및 인터넷 이용행태를 포함합니다. 시장조사 분석 내용은 국가별로 4명의 OTT 전문가를 인터뷰한 결과로 전문가마다 의견이 상이한 경우가 있을 수 있으며, 인터뷰 기간 이후 시장환경의 변화로 인해 해석에 차이가 있을 수 있습니다. 자세한 내용은 본문 참고 부탁드립니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "기타",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15126755",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15126755/fileData.do",
+    "title": null,
+    "description_long": "인천서구시설관리공단 서구구립도서관 사서 추천 도서, 사서의 서재는 서구구립도서관 장서 담당자의 선정 과정 및 지역 주민과 교감할 수 있는 주제에 대해 효과적으로 전달할 수 있는 사서 추천 도서 발행지명으로 2019년부터 발간한 서구 구립도서관 사서 추천도서 브랜드입니다. 계층별, 주제별 권장도서를 선정하여 도서 목록 및 정보(서명, 저자, 출판사 등)을 제공합니다.- 계층 구분 : 유아, 아동, 청소년, 성인 등 언어 및 사회성 발달에 따른 4개 계층으로 구분- 주제 선정 : 대중 주요 관심사 및 사회적 메시지를 담은 5~6개 키워드 선정- 선정기준 : 작품성, 확장성, 균형성, 시기성, 창작성- 기대효과1. 연령별, 주제별 추천도서 전시 및 목록 배포를 통해 이용자의 독서 접근성을 향상 시키고 도서관 이용 활성화2. 도서관에서 제공하는 다양한 자료를 쉽게 접할 수 있도록 도와주는 가이드 역할 수행3. 사서 역량을 활용한 주기적인 추천도서 목록 제공으로 사서 전문성 강화 및 주민 신뢰도 향상",
+    "classification": {
+      "category_main": "문화체육관광 - 문화예술",
+      "provider_type": "인천광역시서구시설관리공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "인천광역시서구시설관리공단",
+      "department": "도서관사업단",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-26",
+      "update_cycle": "반기"
+    },
+    "stats": {
+      "row_count": "140",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15052514",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15052514/fileData.do",
+    "title": null,
+    "description_long": "- 한국농어촌공사에서 관리하고 있는 새만금 유역 내 가력도에 대한 수위 데이터 입니다.- 신시도는 전라북도 부안군 변산면에 속한 섬으로 새만금 방조제 서쪽 끝에 위치하며 새만금 내측 담수호와 외측 해수의 수문 및 배수관리의 거점지 입니다.- 본 데이터는 가력도 수위 계측 정보로 월별, 10분단위, 최대, 최소, 평균값을 제공하고 있으며- 계측자료가 없는 일자(시간)데이터는  계측장비의 정비, 점검, 통신이상 등의 현장 사정에 따라 누락 될 수 있습니다.- 수위계측 자료는 홍수 및 재해 대응에 활용 가능하며- 새만금 수자원 관리, 환경 모니터링, 정책 수립 등에 활용 가능합니다.",
+    "classification": {
+      "category_main": "공공질서및안전 - 안전관리",
+      "provider_type": "한국농어촌공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국농어촌공사",
+      "department": "새만금사업단",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "8760",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157495",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157495/fileData.do",
+    "title": null,
+    "description_long": "본 보고서는 프랑스 OTT 전문가를 대상으로 2025. 9. 2~ 9. 25 사이에 실시한 심층 인터뷰와 OTT 시장 문헌 조사를 통해 분석한 결과입니다. 또한, 보고서의 전문가 의견 및 문헌 조사 내용을 뒷받침하기 위해 국가별 6~8명의 K-콘텐츠 일반인 소비자를 대상으로 2025. 7. 16 ~ 9. 22 사이에 인터뷰가 진행되었습니다.  보고서는 인도의 OTT 시장 규모 및 순위, 관련 인프라 환경, 법률 및 규제 환경, OTT 및 인터넷 이용행태를 포함합니다. 시장조사 분석 내용은 국가별로 4명의 OTT 전문가를 인터뷰한 결과로 전문가마다 의견이 상이한 경우가 있을 수 있으며, 인터뷰 기간 이후 시장환경의 변화로 인해 해석에 차이가 있을 수 있습니다. 자세한 내용은 본문 참고 부탁드립니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "기타",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15052516",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15052516/fileData.do",
+    "title": null,
+    "description_long": "- 한국농어촌공사에서 관리하고 있는 새만금 유역 내 신시도에 대한 수위 데이터 입니다.- 신시도는 전라북도 군산시 옥도면에 속한 섬으로 새만금 방조제 동쪽 끝에 위치하며 새만금 내측 담수호와 외측 해수의 수문 및 배수관리의 거점지 입니다.- 본 데이터는 신시도 수위 계측 정보로 월별, 10분단위, 최대, 최소, 평균값을 제공하고 있으며- 계측자료가 없는 일자(시간)데이터는  계측장비의 정비, 점검, 통신이상 등의 현장 사정에 따라 누락 될 수 있습니다.- 수위계측 자료는 홍수 및 재해 대응에 활용 가능하며- 새만금 수자원 관리, 환경 모니터링, 정책 수립 등에 활용 가능합니다.",
+    "classification": {
+      "category_main": "공공질서및안전 - 안전관리",
+      "provider_type": "한국농어촌공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국농어촌공사",
+      "department": "새만금사업단",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "8760",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15001796",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15001796/fileData.do",
+    "title": null,
+    "description_long": "가스안전연구원 보유 연구장비 현황 공개를 통한 정보공유 및 대여가능 연구장비 정보 제공을 통한 동반성장 도모하기 위한 데이터입니다.해당 데이터는 국가연구시설장비번호, 자산관리번호, 자산명, 취득금액, 취득일자, 배치부서 등으로 구성되어 있습니다.가스안전연구원의 연구장비 현황을 활용하여 연구과제 발굴 및 관련 정책 수립에 이용할 수 있습니다.※ 외부(민간) 및 타 유관기관에서 제공하는 데이터와 일부 상이할 수 있으니 참고 바랍니다.※ 2007년부터 데이터 기준일까지 집계된 통계 정보를 제공합니다.- 데이터 기준일 : 2026년 2월 12일",
+    "classification": {
+      "category_main": "과학기술 - 과학기술진흥",
+      "provider_type": "한국가스안전공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국가스안전공사",
+      "department": "디지털혁신처/정보운영부/공공데이터운영팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "34",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15113036",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15113036/fileData.do",
+    "title": null,
+    "description_long": "장소명",
+    "classification": {
+      "category_main": "보건 - 식품의약안전",
+      "provider_type": "경상북도 울진군"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경상북도 울진군",
+      "department": "울진군보건소",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-03-10",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "31",
+      "download_count": "50"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15110991",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15110991/fileData.do",
+    "title": null,
+    "description_long": "연월",
+    "classification": {
+      "category_main": "지역개발 - 지역및도시",
+      "provider_type": "한국부동산원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국부동산원",
+      "department": "ICT전략부 데이터인프라관리팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2022-12-22",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "901",
+      "download_count": "1220"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15115754",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15115754/fileData.do",
+    "title": null,
+    "description_long": "울산광역시 북구 불법주정차단속 현황 데이터입니다.해당 데이터에 포함된 내용으로는 단속된 연도, 월과 단속종류(CCTV, 버스탑재형CCTV, 이동식, 안전신문고앱), 단속건수, 과태료 합계, 데이터기준일입니다. 데이터기준일은 아래에 등록된 일자와 같습니다.우리 구 불법주정차 단속 현황데이터는 귀하의 업무와 관련하여 단속방법을 추가할 때, 단속 건수별로 신규 정책 수립할 때, 건수당 과태료 합계로 통계학적 분석의 근거자료가 필요할 때 사용할 수 있으며추가적으로 필요하신 데이터가 있으실 경우 공공데이터 포털(data.go.kr)을 통해 요청해 주시면 적극 반영하도록 하겠습니다.",
+    "classification": {
+      "category_main": "교통및물류 - 도로",
+      "provider_type": "울산광역시 북구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "울산광역시 북구",
+      "department": "미디어정보과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "4",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157494",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157494/fileData.do",
+    "title": null,
+    "description_long": "본 보고서는 미국 OTT 전문가를 대상으로 2025. 9. 2~ 9. 25 사이에 실시한 심층 인터뷰와 OTT 시장 문헌 조사를 통해 분석한 결과입니다. 또한, 보고서의 전문가 의견 및 문헌 조사 내용을 뒷받침하기 위해 국가별 6~8명의 K-콘텐츠 일반인 소비자를 대상으로 2025. 7. 16 ~ 9. 22 사이에 인터뷰가 진행되었습니다.  보고서는 인도의 OTT 시장 규모 및 순위, 관련 인프라 환경, 법률 및 규제 환경, OTT 및 인터넷 이용행태를 포함합니다. 시장조사 분석 내용은 국가별로 4명의 OTT 전문가를 인터뷰한 결과로 전문가마다 의견이 상이한 경우가 있을 수 있으며, 인터뷰 기간 이후 시장환경의 변화로 인해 해석에 차이가 있을 수 있습니다. 자세한 내용은 본문 참고 부탁드립니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "기타",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157493",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157493/fileData.do",
+    "title": null,
+    "description_long": "본 보고서는 인도 OTT 전문가를 대상으로 2025. 9. 2~ 9. 25 사이에 실시한 심층 인터뷰와 OTT 시장 문헌 조사를 통해 분석한 결과입니다. 또한, 보고서의 전문가 의견 및 문헌 조사 내용을 뒷받침하기 위해 국가별 6~8명의 K-콘텐츠 일반인 소비자를 대상으로 2025. 7. 16 ~ 9. 22 사이에 인터뷰가 진행되었습니다.  보고서는 인도의 OTT 시장 규모 및 순위, 관련 인프라 환경, 법률 및 규제 환경, OTT 및 인터넷 이용행태를 포함합니다. 시장조사 분석 내용은 국가별로 4명의 OTT 전문가를 인터뷰한 결과로 전문가마다 의견이 상이한 경우가 있을 수 있으며, 인터뷰 기간 이후 시장환경의 변화로 인해 해석에 차이가 있을 수 있습니다. 자세한 내용은 본문 참고 부탁드립니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "기타",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15115757",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15115757/fileData.do",
+    "title": null,
+    "description_long": "울산광역시 북구 행정동별 인구현황 데이터 입니다.해당 데이터에는 내국인 총합, 내국인 남성, 내국인 여성, 외국인 총합, 외국인 남성, 외국인 여성의 값이 있습니다.매월 말 데이터를 추출하여 업데이트 하고 있으며, 인구의 증감에 대한 추이파악을 위해선 이전에 올렸던 데이터를 참고하실 수 있습니다.이 데이터는 행정동별로 성별과 내국인/외국인으로 구분하여 데이터가 제공되기때문에 나이에 따른 구분, 귀화인에 대한 정보는 제공되지 않으며 추가적인 정보가 필요할 경우 주민자치과(행정동 인구현황 담당부서), 미디어정보과(공공데이터 담당부서)에 문의하실 수 있습니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 국가통계",
+      "provider_type": "울산광역시 북구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "울산광역시 북구",
+      "department": "미디어정보과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "8",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15134426",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15134426/fileData.do",
+    "title": null,
+    "description_long": "본 보고서는 인도, 미국, 프랑스, 태국 OTT 전문가를 대상으로 심층 인터뷰와 OTT 시장 문헌 조사를 통해 분석한 결과입니다.보고서는 나라별 OTT 시장 규모 및 순위, 관련 인프라 환경, 시장 구조와 트렌드, 법률 및 규제 환경, OTT 및 인터넷 이용행태와 더불어, 각 나라에 진출한 K-콘텐츠 위상 및 시사점을 포함합니다.시장조사 분석 내용은 국가별로 4명의 OTT 전문가를 인터뷰한 결과로 전문가마다 의견이 상이한 경우가 있을 수 있으며, 인터뷰 기간 이후 시장 환경의 변화로 인해 해석에 차이가 있을 수 있습니다.자세한 내용은 본문 참고 부탁드립니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "기타",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15088427",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15088427/fileData.do",
+    "title": null,
+    "description_long": "순번",
+    "classification": {
+      "category_main": "통일·외교 - 외교",
+      "provider_type": "부산광역시"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "부산광역시",
+      "department": "국제협력과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2021-09-13",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "29",
+      "download_count": "812"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3044322",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3044322/fileData.do",
+    "title": null,
+    "description_long": "부평구 관내 각 행정동의 인구 규모와 세대 구성 실태를 정밀하게 파악하기 위한 행정 기초 자료 입니다.활용 목적 및 특징- 지역별 인구 분포 분석- 지역 맞춤형 행정 서비스 및 인프라 구축- 복지 사각지대 해소 및 사회 안전망 강화- 지역 불균형 해소 및 도시 계획 수립- 민간 경제 활성화 및 기초 통계 제공주요 항목 설명● 동별 : 부평구 산하 개별 행정 구역의 명칭● 인구수(계) : 해당 동에 거주하는 총 인구수● 인구수(남) : 해당 동에 거주하는 남성 인구수● 인구수(여) : 해당 동에 거주하는 여성 인구수● 세대수 : 해당 동에 등록된 총 가구(세대)의 수",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "인천광역시 부평구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "인천광역시 부평구",
+      "department": "홍보담당관",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "22",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15040290",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15040290/fileData.do",
+    "title": null,
+    "description_long": "과천도시공사에서 관리‧운영 중인 신재생에너지 시설의 구축 및 운영 현황 정보를 제공하는 데이터셋입니다. 시민회관은 기존 태양열시설을 운영하다가 2023년 9월 태양광시설(발전용량 96kWp)로 전환‧구축하였으며, 체육공원은 2010년 태양광시설(발전용량 160kWp)을 설치하여 현재까지 운영 중입니다.본 데이터는 시설별 설치 연도, 에너지원 유형(태양광 등), 발전용량(kWp), 설치 위치, 운영 현황 등 신재생에너지 설비 관련 기본 정보를 포함하고 있습니다.해당 데이터는공공시설의 친환경 에너지 전환 현황 공개탄소중립 및 에너지 자립 정책 관련 기초자료 제공연구·정책 분석 및 외부 서비스 연계 활용시민 대상 친환경 시설 운영 정보 제공을 목적으로 공개하며, 설비 증설·교체·운영 상태 변경 등 변동 사항 발생 시 지속적으로 최신화할 수 있도록 표준화된 구조로 구성되어 있습니다.",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 에너지및자원개발",
+      "provider_type": "과천도시공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "과천도시공사",
+      "department": "스마트정보부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-19",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "30",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15064024",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15064024/fileData.do",
+    "title": null,
+    "description_long": "구분",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "경상북도 울진군"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경상북도 울진군",
+      "department": "울진군",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2024-03-29",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "11",
+      "download_count": "84"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15138311",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15138311/fileData.do",
+    "title": null,
+    "description_long": "교육코드",
+    "classification": {
+      "category_main": "농림 - 농업·농촌",
+      "provider_type": "경상남도"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경상남도",
+      "department": "경상남도농업기술원 미래농업교육과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2024-09-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "반기"
+    },
+    "stats": {
+      "row_count": "266",
+      "download_count": "82"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15130134",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15130134/fileData.do",
+    "title": null,
+    "description_long": "본 데이터는 울진군의 발전시설 및 주변 지역에 설치된 지진가속도계측기의 위치, 장비 정보, 관리 현황을 정리한 자료입니다. 항목은 구분, 시설물 및 자유장 감지기 위치와 장비, 기록계 및 기록계 장비, 설치일자, 관리주체, 관리담당자로 구성되어 있습니다. 지진가속도계측기는 지진 발생 시 시설물의 진동 및 가속도를 계측하여 데이터를 수집하고, 이를 기반으로 설비 안정성 분석 및 긴급 대응체계 운용에 활용 가능합니다. 해당 데이터는 발전설비의 내진 설계 신뢰성 검토, 지진 감시 인프라 배치 현황, 재난대응 설비의 유지관리 현황 등을 파악하는 데 활용 가능합니다.",
+    "classification": {
+      "category_main": "공공질서및안전 - 안전관리",
+      "provider_type": "경상북도 울진군"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경상북도 울진군",
+      "department": "안전재난과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-08-04",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "6",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15149192",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15149192/fileData.do",
+    "title": null,
+    "description_long": "1. 데이터 개요이 데이터는 인공지능(AI)이 생성한 한국어 문장의 사실 여부를 검증할 수 있도록 만든 자료입니다.문장을 작은 의미 단위(단일 사실, Atomic Fact)로 분해하고, 각 사실이 참인지 거짓인지 구분할 수 있도록 정답 라벨과 평가 코드를 함께 제공합니다. 이를 통해 다양한 언어모델의 사실성 생성·판단 능력을 쉽게 비교·평가할 수 있습니다.2. 주요 특징- 문장 분해 데이터 제공: 한국어 생성 문장을 단일 사실 단위로 나눈 결과 포함- 정답 라벨 포함: 각 단일 사실의 진위 여부(참/거짓) 제공- 범용 활용 가능: 특정 모델에 제한되지 않고, GPT·Gemini·LLaMa 등 다양한 모델에 적용 가능- 평가 코드 제공: 사용자가 데이터를 내려받아 바로 실험을 재현할 수 있도록 Python 코드 포함3. 데이터 예시- 원문 문장: “홍인한은 조선 후기의 문인이자 정치가이다.”- 분해된 단일 사실:홍인한은 조선 후기의 사람이다.홍인한은 문인이다.홍인한은 정치가이다.정답 라벨: [참, 참, 참]4. 데이터 구성- 생성 문서 데이터 (AI가 생성한 문장)- 단일 사실 데이터 (문장을 분해한 작은 의미 단위)- 정답 라벨 데이터 (참/거짓)- 평가 코드 (Python 기반, 재현 가능)",
+    "classification": {
+      "category_main": "과학기술 - 과학기술연구",
+      "provider_type": "한국전자통신연구원"
+    },
+    "resources_meta": {
+      "extension": "PY",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국전자통신연구원",
+      "department": "지식정보서비스실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-09-11",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15113067",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15113067/fileData.do",
+    "title": null,
+    "description_long": "대전광역시 서구 구민안전교육 현황 데이터는 지역 주민의 안전 의식을 높이고 재난·사고 예방 능력을 강화하기 위해 실시된 다양한 교육 프로그램의 운영 내역을 체계적으로 정리한 자료입니다. 이 데이터에는 교육의 성격을 구분하는 교육분야, 교육의 제목과 내용을 파악할 수 있는 교육명, 실제 참여 규모를 보여주는 교육인원, 그리고 시행 시점을 나타내는 교육연도가 포함됩니다.이 자료는 연도별 안전교육 추진 현황을 비교하거나, 특정 교육 분야의 수요 증가·감소를 분석하는 데 활용할 수 있으며, 세대별·지역별 안전 취약 요소를 파악해 교육 프로그램 개선이나 신규 과정 설계에도 유용합니다. 또한 안전정책 평가, 재난대응 역량 강화 계획 수립 등 공공 안전행정 영역에서도 핵심 기초자료 역할을 합니다.",
+    "classification": {
+      "category_main": "공공질서및안전 - 안전관리",
+      "provider_type": "대전광역시 서구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "대전광역시 서구",
+      "department": "홍보담당관",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-24",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "16",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15056378",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15056378/fileData.do",
+    "title": null,
+    "description_long": "시군",
+    "classification": {
+      "category_main": "공공질서및안전 - 안전관리",
+      "provider_type": "경상북도"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경상북도",
+      "department": "AI데이터과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-02-10",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "142",
+      "download_count": "81"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15104308",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15104308/fileData.do",
+    "title": null,
+    "description_long": "사업체명칭",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 산업·중소기업일반",
+      "provider_type": "경상남도 양산시"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경상남도 양산시",
+      "department": "양산시 AI스마트시티과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2022-08-18",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "158",
+      "download_count": "223"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15092032",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15092032/fileData.do",
+    "title": null,
+    "description_long": "동해안 지역의 산불위험에 대비하기 위해 2021년 10월부터 동해안 10개 시군(강원  6개 지역(고성, 속초, 양양, 강릉, 동해, 삼척), 경북 4개 지역(울진, 영덕, 포항, 경주))을 평지 및 산간으로 구분하여(총 20개소) 개소별 1시간 단위로 산불위험예보를 분석하여 제공함.산불위험지수는 기상(기온, 상대습도, 풍향, 풍속), 임상(침엽수, 활엽수, 혼효림), 지형(고도, 방위 등)을 분석하여 1~100까지의 위험지수로 산출하며, 제공항목으로는 지역별 산불위험지수의 최소값, 최대값, 평균값과 산불위험등급 (낮음(50이하), 다소높음(51~65), 높음(66~85), 매우높음(85 초과))으로 구분하여 10개 지역 20개소의 최근 1개월간 정보를 제공함",
+    "classification": {
+      "category_main": "농림 - 임업·산촌",
+      "provider_type": "산림청 국립산림과학원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "산림청 국립산림과학원",
+      "department": "연구기획과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "9860",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15092027",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15092027/fileData.do",
+    "title": null,
+    "description_long": "대형산불위험예보 목록 정보란 대형산불 위험예보는 30ha의 소나무 숲을 대상으로 숲의 건조상태를 나태내는 실효습도와 풍속 등 기상여건을 분석해 대형산불 발생할 가능성이 높은 지역을 조기에 알려주는 시스템임. 2017년부터 시도, 시군구, 읍면동 매시간 기준 당시 풍속 및 실효습도 정보와 함께 대형산불위험예보 정보를 제공하고 있음. 대형산불위험예보는 주의보와 경보로 구분되며, 해당 읍면동의 산불위험지수가 51 이상일 경우, ‘대형산불주의보’는 실효습도 30~45% 이하가 2일이상- 풍속 7~11m/s 미만일 때 발령하고, 대형산불 경보는 실효습도 30% 미만이 2일이상- 풍속 11m/s 이상일 때 발령을 함.",
+    "classification": {
+      "category_main": "농림 - 임업·산촌",
+      "provider_type": "산림청 국립산림과학원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "산림청 국립산림과학원",
+      "department": "연구기획과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "46195",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15071110",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15071110/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 경상북도 도립교향악단이 진행하는 공연의 일정 정보를 제공하는 자료입니다. 도내 각 시군별로 계획된 공연의 일자, 장소, 행사내용 및 해당 행사의 목적 등이 포함되어 있어, 지역문화 향유 기회 확대 및 공연 홍보에 활용될 수 있습니다. 사용자는 본 데이터를 통해, 도립교향악단의 문화예술 활동 현황을 지역 단위로 파악할 수 있으며, 공연 기획 및 정책 수립 시 참고자료로 활용 가능합니다. 본 데이터는 정기적으로 갱신되며, 공연 일정에 따라 수록 정보가 변경될 수 있습니다. 문화행사 일정 안내, 지역 간 공연 분포 분석, 공연장소 운영 계획 등 다양한 분야에서 본 자료를 유용하게 사용할 수 있습니다. 데이터는 표 형식으로 제공되며, 구조는 시군명, 일자, 장소, 행사내용, 목적의 5개 항목으로 구성되어 있습니다. 자료 관련 문의는 054-880-3128로 하시기 바랍니다.",
+    "classification": {
+      "category_main": "문화체육관광 - 문화예술",
+      "provider_type": "경상북도"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "경상북도",
+      "department": "AI데이터과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "312",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3076421",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3076421/fileData.do",
+    "title": null,
+    "description_long": "ㅇ 작성목적 :- 국내·외 경제, 원자재 시장 및 재활용가능자원에 대한 시장동향과 전망을 조사 발표하여 재활용산업의 발전 및 업무 참고자료 제공ㅇ 조사대상 : 사업체 - 전국 재활용업체ㅇ 작성주기 : 매월ㅇ 조사기간 : 매월 10일경 조사(10일 가격기준 조사)ㅇ 조사대상 : 재활용가능자원에 대한 국내·외 경제동향, 원자재 시장동향 및 [통계표]가격현황ㅇ 조사권역 : 전국, 8개 권역(수도권, 강원, 충북, 충남, 전북, 전남, 경북, 경남)- 수도권 : 서울,인천광역시 및 경기도 지역ㅇ 조사품목 : 26개 항목폐지 2(신문지, 골판지)폐플라스틱 17(PE, PP, PS, PET, ABS, PVC, EPS | 압축, 플레이크, 펠렛, 잉고트)폐유리병 3(컬렛 백색, 갈색, 청녹색)폐금속 3(철스크랩, 철캔, 알루미늄캔)폐타이어 1(고무분말)ㅇ 가격단위 : 원/kg* 조사가격 산정방법 : 각 권역내 품목별 조사업체 가격의 평균. 업체별 가격은 상이할수 있음.ㅇ 참고사항 : 빈칸으로 표시된 부분은 미공표된 자료로 통계에 대한 상세 내역은 자원순환마루에서 확인 바랍니다.- 자원순환마루 : www.recycling-info.or.kr카카오톡 채널 \"재활용가능자원 가격조사(한국환경공단)\"을 통해알림톡으로 매월 가격조사 결과를 받아보실 수 있습니다.",
+    "classification": {
+      "category_main": "환경 - 폐기물",
+      "provider_type": "한국환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국환경공단",
+      "department": "자원순환처 자원순환통계부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시"
+    },
+    "freshness": {
+      "registered_at": "2026-01-23",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "26",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15033936",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15033936/fileData.do",
+    "title": null,
+    "description_long": "순번",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 에너지및자원개발",
+      "provider_type": "전라남도 신안군"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "전라남도 신안군",
+      "department": "행정지원과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2024-11-01",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "2082",
+      "download_count": "661"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15065264",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15065264/fileData.do",
+    "title": null,
+    "description_long": "연도",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 산업·중소기업일반",
+      "provider_type": "산업통상부"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "산업통상부",
+      "department": "엔지니어링디자인과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2020-09-18",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "14",
+      "download_count": "1005"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3039943",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3039943/fileData.do",
+    "title": null,
+    "description_long": "본 데이터는 국내 이러닝(에듀테크)산업의 공급시장의 규모와 관련하여, 직무별 이러닝(에듀테크) 산업의 인력에 대한 통계 자료입니다. 이러닝(에듀테크) 직무는 이러닝 컨설턴트, 이러닝 교수 설계자, 이러닝 콘텐츠 개발자, 이러닝 영상 제작자, 이러닝 시스템 개발자, 이러닝 과정 운영자, 기타 등으로 구분되고 있으며. 이와 관련하여 산업분야별 최근 5년간 이러닝 종사자수, 최근 5년간 사업부문별 종사자수, 사업부문별 인력부족 비율, 인력부족 사유, 조사년도 신규충원 인력, 청년인턴 및 경력단절 여성직원 채용 등을 조사 및 발표하고 있습니다.",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 산업·중소기업일반",
+      "provider_type": "산업통상부"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "산업통상부",
+      "department": "엔지니어링디자인과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "10",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15134427",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15134427/fileData.do",
+    "title": null,
+    "description_long": "본 보고서는  인도, 싱가포르, 필리핀, 튀르키예  OTT 이용자 대상으로 온라인 조사를 통해 집계한 자료를 분석한 결과이며, 보고서 내용은 나라별 OTT 이용자수, OTT 순위, 이용요금, 이용현황 등 내용을 포함합니다.본 조사는 월정액 OTT 플랫폼(광고 없이 월정액 요금 지불 후 이용하는 OTT 플랫폼) 및 무료 OTT 플랫폼(광고 신청 후 무료로 이용하는 OTT 플랫폼), 무료/월정액 혼합형 OTT 플랫폼(무·유료 이용 콘텐츠가 혼합된 플랫폼), FAST 플랫폼(실시간 채널 형태로 광고와 함께 무료로 제공하는 플랫폼) 이용자를 포함하고 있으며, 유튜브, 틱톡 등 사용자 생성 콘텐츠 기반의 플랫폼 이용자는 포함하지 않고 있습니다.또한, 조사의 OTT 이용자 구분은 범주형 문항인 'OTT 이용 빈도'와 'OTT 이용 시간'의 응답 내용을 교차 분석하여 구분하였으며, 'OTT 이용 빈도' 기준으로만 구분했던 전년도 조사와 비교 시 주의를 요합니다.자세한 내용은 본문 참고부탁드립니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "PDF",
+      "media_type": "기타",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15090113",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15090113/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 매월 광양항을 출입한 컨테이너 차량의 지역별 분포를 차량 대수와 순위로 정리한 통계입니다. 주요 출발지 또는 도착지로서의 지역별 물류 집중도를 파악할 수 있으며, 항만 접근성 분석, 물류 흐름 예측, 교통계획 수립 등 정책 수립에 활용될 수 있는 기초 자료입니다.",
+    "classification": {
+      "category_main": "교통및물류 - 해운·항만",
+      "provider_type": "여수광양항만공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "여수광양항만공사",
+      "department": "경영지원부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "16",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15136797",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15136797/fileData.do",
+    "title": null,
+    "description_long": "이 공공데이터는 각 국가에서 발사한 위성에 대한 정보를 담은 위성정보 현황 데이터로, 해당 데이터는 위성명, 고유번호, 발사날짜, 발사국가, 위성의 목적, 발사지, 위성의 무게, 궤도의 항목으로 구성되어 있습니다. 해당 데이터를 통해 통신, 방송, 군사, 기술 개발 등 위성의 목적이 다양함과 각국 위성의 운용현황 등을 알 수 있습니다. 이에 해당 데이터는 우주개발 동향 파악 및 국제 전파관리 정책 수립에 활용될 수 있는 기초자료로서 의미가 크며, 또한 위성 운용 실태 분석, 국가별 우주개발 역량 비교, 전파자원의 국제적 관리, 궤도 자산 모니터링 등 다양한 정책 및 기술적 활용에 중요한 기반 자료로도 활용될 수 있습니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "과학기술정보통신부 중앙전파관리소"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "과학기술정보통신부 중앙전파관리소",
+      "department": "국제협력과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "반기"
+    },
+    "stats": {
+      "row_count": "18493",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15090134",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15090134/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 광양항을 이용한 컨테이너 차량의 일별 수출입 운송 실적을 월간 단위로 기록한 자료입니다. 일자별 수출입 차량 대수를 구분하여 제공함으로써, 물류 흐름의 수출입 비중과 추이를 파악할 수 있으며, 항만 물동량 분석, 교통 분산 대책 수립, 물류 정책 결정 시 기초 자료로 활용될 수 있습니다.",
+    "classification": {
+      "category_main": "교통및물류 - 해운·항만",
+      "provider_type": "여수광양항만공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "여수광양항만공사",
+      "department": "경영지원부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "31",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3056852",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3056852/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 하수처리수질 현황에 대한 데이터로, 공단이 운영하는 제1하수처리장(광주사업소), 제2하수처리장(송대사업소), 효천하수처리장의 월별 수질 처리 결과를 제공합니다. 해당 데이터에는 각 처리장별로 생물학적 산소요구량(BOD), 총유기탄소량(TOC), 부유물질량(SS), 총질소(T-N), 총인(T-P) 등 주요 수질 항목에 대한 측정값이 포함되어 있으며, 하수처리 효율과 방류수 수질의 적정성 평가에 활용될 수 있도록 구성되어 있습니다. 이 데이터는 수질관리 성과 분석, 환경기준 준수 여부 확인, 정책 수립 및 대시민 정보 공개 등 다양한 용도로 활용될 수 있습니다",
+    "classification": {
+      "category_main": "환경 - 상하수도·수질",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "16",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3056856",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3056856/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 하수처리시설 악취 관리 현황에 대한 데이터로, 제1하수처리장, 제2하수처리장, 효천하수처리장 내 각 측정지점별 악취 관리 정보를 제공합니다. 해당 데이터에는 각 처리장의 측정지점에 따른 악취 기준과 함께, 분기별 악취 측정결과가 포함되어 있어 시설별·시기별 악취 수준을 체계적으로 파악할 수 있도록 구성되어 있습니다. 본 데이터는 악취 저감시설의 운영 효과 분석, 법적 기준 충족 여부 확인, 환경 민원 대응, 향후 악취 저감대책 수립 등 다양한 용도로 활용될 수 있으며, 하수처리시설의 쾌적한 운영환경 조성을 위한 기초자료로도 활용됩니다.",
+    "classification": {
+      "category_main": "환경 - 환경일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "19",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15142204",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15142204/fileData.do",
+    "title": null,
+    "description_long": "금천구 내 반려견 배변봉투함의 설치 현황을 종합적으로 제공하는 데이터입니다. 각 시설의 주소, 상세 위치, 관리부서, 유의사항 등 주민들이 실질적으로 활용할 수 있는 이용 정보를 포함하고 있어 반려견과 함께 생활하는 시민들이 쾌적한 환경을 유지할 수 있도록 지원합니다. 이 데이터는 공공장소의 위생 관리와 더불어 바람직한 반려동물 문화 확산에 기여하며, 위치 좌표를 기반으로 지도 서비스와 연계하여 안내 자료로 활용할 수 있습니다. 또한 환경 개선 정책 수립, 반려동물 편의시설 관리, 도시 미관 유지, 지역사회 캠페인 기획 등 여러 분야에서 실질적인 자료로 쓰일 수 있습니다. 공공기관은 물론 연구자, 시민 모두에게 도움이 되는 가치 있는 공공 데이터입니다.",
+    "classification": {
+      "category_main": "환경 - 환경일반",
+      "provider_type": "서울특별시 금천구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "서울특별시 금천구",
+      "department": "소통담당관",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15048037",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15048037/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단의 태양광에너지 발전현황에 대한 데이터로, 공단이 운영 중인 주요 시설을 대상으로 한 태양광 발전 관련 정보를 제공합니다. 제공되는 데이터에는 광주제1하수처리장, 제2하수처리장, 효천하수처리장, 광역위생매립장, 제2음식물자원화시설의 각 시설명을 비롯하여, 태양광 설비의 설치위치, 설비의 총 용량(kW), 그리고 월별 발전량(kWh) 항목이 포함되어 있습니다. 이를 통해 시설별 에너지 생산 실적을 비교하거나, 계절별 발전량 추이를 분석할 수 있으며, 공단의 신재생에너지 활용성과 운영 효율성 평가 등에 활용될 수 있도록 구성되어 있습니다.",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 에너지및자원개발",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "10",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15077223",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15077223/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 음식물관리처의 악취 관리현황에 대한 데이터로, 처리장 내 각 측정지점별로 시료채취일에 따른 악취 수치를 제공합니다. 해당 데이터에는 측정이 이루어진 위치를 나타내는 \"측정지점\" 정보와 함께, 적용된 악취 관련 법적 기준을 확인할 수 있는 \"악취기준\", 그리고 시료가 채취된 시점을 분기별로 구분한 \"시료채취 분기\" 항목이 포함되어 있어, 시간적·공간적 악취 추이를 종합적으로 파악할 수 있도록 구성되어 있습니다. 본 데이터는 시설의 악취 저감 효과 분석, 민원 대응, 정책 수립 등에 활용될 수 있도록 체계적으로 제공됩니다",
+    "classification": {
+      "category_main": "환경 - 환경일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "6",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3072498",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3072498/fileData.do",
+    "title": null,
+    "description_long": "1. 대구 자동차 등록 현황. 차종, 시도, 구군, 연료별 등록현황이 기재되어 있습니다.가  차종은 크게 승용차, 승합차, 화물차, 특수차로 구분됩니다.나. 용도는 관용, 자가용, 영업용으로도 구분됩ㄴ다.다. 대구광역시내에 증감현황을 전입, 전출, 신규등록, 말소등록 으로 증감상황을 알수있습니다.라. 시도별 사업용 비사업용으로 구분하여 차종별 현황을 제공합니다.마. 구군별, 차종별, 용도별 현황을 제공합니다.바. 구군별, 용도별, 연료별 현황을 제공합니다.2. 대구 등록관청 건설기계별 등록현황이 기재되어 있습니다.34개의 건설기계종류별 용도별 현황을 제공합니다.",
+    "classification": {
+      "category_main": "교통및물류 - 물류등기타",
+      "provider_type": "대구광역시"
+    },
+    "resources_meta": {
+      "extension": "XLSX",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "대구광역시",
+      "department": "차량등록사업소",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-02-04",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "318"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15043088",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15043088/fileData.do",
+    "title": null,
+    "description_long": "- 한국방송광고진흥공사가 1983년도부터 제작한  주제별 인쇄 공익광고 목록을 제공합니다.- 개방 데이터는 인쇄 공익광고에 대한 제작 연도, 작품명, 대분류, 소분류 총 4가지 항목으로 이루어져 있습니다.- 학계 및 연구기관에서는 인쇄 공익광고 주요 주제를 확인하고 연도별 공익광고 주제 키워드 변화를 분석하기 위한 기초 자료로 활용할 수 있습니다. 또한, 공익광고 제작을 고려하는 기관 및 기업에서는 제작 현황을 바탕으로 제작 기획 단계에서 내용 및 컨셉이 중복되는 사항을 사전에 확인할 수 있습니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "480",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15077274",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15077274/fileData.do",
+    "title": null,
+    "description_long": "영산강 공중화장실 운영현황에 대한 데이터로, 영산강 주변에 설치된 공중화장실의 위치 및 시설 현황을 종합적으로 제공합니다. 해당 데이터에는 각 화장실의 명칭(화장실명), 소재지, 공용화장실 여부를 비롯해 여성용 및 남성용 변기의 개수, 개방시간, 설치년도 등의 항목이 포함되어 있습니다. 이 데이터를 통해 시민과 방문객은 공중화장실 이용 가능 여부를 쉽게 확인할 수 있으며, 공공시설의 위생관리, 접근성 개선, 시설 확충 계획 수립 등에도 활용될 수 있습니다. 특히 성별 구분된 시설 수와 개방시간 정보는 이용자 편의성 증진 및 관련 민원 대응의 기초자료로 활용됩니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 정부자원관리",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "16",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15131300",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15131300/fileData.do",
+    "title": null,
+    "description_long": "사회복무요원 복무현황 2025년 4분기 기준 입니다.- 1 page : 기관별(국가기관, 자치단체, 공공단체, 복지시설), 분야(사회복지, 보건의료, 교육문화, 환경안전, 행정) 복무현황 통계* 사회복지 : 사회복지시설 운영지원, 지자체 사회복지 업무지원* 보건의료 : 국민건강 보호, 증진 업무지원* 교육문화 : 교과지도 등 학습지원, 초.중.고 장애학생 활동지원, 궁.능 등 문화재 관리지원)* 환경안전 : 환경보호.감시지원, 재난.안전 관리 지원, 행정기관 경비 지원* 행정 : 일반행정 지원- 2 page : 각 지방 병무청별(서울,부산울산,대구경북,경인,광주전남,대전충남,강원,충북,전북,경남,제주,인천,경기북부,강원영동), 분야별 복무현황 통계* 공공누리 제 3유형 : 출처표시 + 변경금지- 출처표시- 상업적, 비상업적 이용가능- 변형 등 2차적 저작물 작성 금지",
+    "classification": {
+      "category_main": "국방 - 병무행정",
+      "provider_type": "병무청"
+    },
+    "resources_meta": {
+      "extension": "HWPX",
+      "media_type": "기타",
+      "delivery_type": "LOD연계URL등록"
+    },
+    "provider": {
+      "organization": "병무청",
+      "department": "데이터관리과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "분기"
+    },
+    "stats": {
+      "row_count": "34",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "3070565",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/3070565/fileData.do",
+    "title": null,
+    "description_long": "- 한국방송광고진흥공사가 1981년도부터 제작한 주제별 방송 공익광고 목록을 제공합니다.- 개방 데이터는 방송 공익광고에 대한 제작 연도, 작품명, 대분류, 소분류 총 4가지 항목으로 이루어져 있습니다.- 학계 및 연구기관에서는 방송 공익광고 주요 주제를 확인하고 연도별 공익광고 주제 키워드 변화를 분석하기 위한 기초 자료로 활용할 수 있습니다. 또한, 공익광고 제작을 고려하는 기관 및 기업에서는 제작 현황을 바탕으로 제작 기획 단계에서 내용 및 컨셉이 중복되는 사항을 사전에 확인할 수 있습니다.",
+    "classification": {
+      "category_main": "통신 - 방송통신",
+      "provider_type": "한국방송광고진흥공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국방송광고진흥공사",
+      "department": "미디어데이터팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "446",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15069352",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15069352/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 승촌보캠핑장 운영현황에 대한 데이터로, 승촌보 캠핑장의 위치 정보 및 기본 편의시설 현황을 제공합니다. 해당 데이터에는 캠핑장의 위도와 경도 좌표, 주소와 같은 위치정보를 비롯하여, 캠핑장 내 설치된 화장실 등의 편의시설 현황 항목이 포함되어 있습니다. 이를 통해 이용자들은 캠핑장의 접근성과 편의성 여부를 사전에 파악할 수 있으며, 공단은 시설 이용률 분석, 환경개선 계획 수립, 관광 인프라 관리 등의 행정자료로 활용할 수 있습니다. 또한 공공 야영장 운영의 투명성과 공공서비스 품질 향상 측면에서도 유용하게 활용될 수 있습니다",
+    "classification": {
+      "category_main": "문화체육관광 - 문화체육관광일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "17",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15077275",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15077275/fileData.do",
+    "title": null,
+    "description_long": "광주천 공중화장실 운영현황에 대한 데이터로, 광주천을 따라 설치된 공중화장실의 기본 현황 및 관리 정보를 제공합니다. 데이터에는 각 화장실의 \"화장실명\"과 \"소재지\"를 비롯해, \"변기 개수\", \"관리기관명\", \"전화번호\", \"개방시간\", \"설치년도\" 등의 항목이 포함되어 있습니다. 이를 통해 시민과 이용자들이 공중화장실의 위치 및 이용 가능 여부를 쉽게 파악할 수 있도록 하며, 공중위생 관리, 시설 개선, 도시환경 서비스 향상 등의 행정자료로도 활용될 수 있습니다. 특히 개방시간과 관리기관 정보는 유지관리 체계 점검 및 민원 대응에 있어서도 중요한 기초자료로 활용됩니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 정부자원관리",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "5",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15125640",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15125640/fileData.do",
+    "title": null,
+    "description_long": "산불위험실황분석이미지 데이터는 기상청에서 실시간으로 연계되는 기상 정보 데이터(기온, 상대습도, 실효습도, 풍속, 강수량)와 지형(사면방향, 고도)정보, 임상(침엽수, 활엽수, 혼효림) 정보를 추출하여 현 시간 산불발생 위험을 1-100까지의 지수를 산출하여 4단계의 등급(색상)으로 구분하여 이미지로 표출한 데이터입니다.- 산불위험지수 등급 구분 방법 : 매우높음(86이상, 빨강), 높음(66-85, 주황), 다소높음(51-65, 노랑), 낮음(51미만, 파랑)의  4단계의 위험등급(색상)- 데이터 제공 방법 : 1시간당 이미지 1장 , 월별 제공- 이미지 표출 방법 : 100M*100M의 격자 공간정보",
+    "classification": {
+      "category_main": "농림 - 임업·산촌",
+      "provider_type": "산림청 국립산림과학원"
+    },
+    "resources_meta": {
+      "extension": "PNG",
+      "media_type": "이미지",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "산림청 국립산림과학원",
+      "department": "연구기획과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "7"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15069355",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15069355/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 광역위생매립장 현황에 대한 데이터로, 공단이 관리·운영 중인 위생매립장의 주요 정보를 제공합니다. 데이터에는 각 매립장의 \"시설명\"과 \"소재지\"를 비롯하여, 전체 부지 \"면적\", \"매립용량\", \"침출수 처리방법\", \"처리기간\" 등의 항목이 포함되어 있습니다. 이를 통해 매립장의 물리적 규모와 처리 능력, 환경관리 방식 등을 종합적으로 파악할 수 있으며, 폐기물 처리정책 수립, 환경영향 분석, 유관 기관 간 정보 공유 등에 활용될 수 있습니다. 또한 지속가능한 매립장 운영과 자원순환 기반 조성을 위한 기초자료로도 유용하게 활용될 수 있습니다.",
+    "classification": {
+      "category_main": "환경 - 폐기물",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15157488",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15157488/fileData.do",
+    "title": null,
+    "description_long": "최근 산업구조가 제조업에서 서비스업 중심으로 변화함에 따라 서비스업 종사자의 산업재해 예방이 더욱 중요해지고 있습니다.본 동영상은 한국산업안전보건공단 홈페이지 안전보건자료실에 등록된 자료로써, 건물종합관리업, 도소매·수리업, 음식·숙박업, 보건·사회복지업 등 주요 서비스 업종별 대표 사고 사례를 소개하고, 미끄럼·추락·끼임·화상·근골격계 질환 등 다양한 재해를 예방하기 위한 안전수칙과 작업 요령을 안내합니다.현장에서 실천할 수 있는 구체적인 예방조치를 통해 안전한 일터 조성의 중요성을 상기할 수 있습니다.",
+    "classification": {
+      "category_main": "공공질서및안전 - 안전관리",
+      "provider_type": "한국산업안전보건공단"
+    },
+    "resources_meta": {
+      "extension": "MP4",
+      "media_type": "동영상",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "한국산업안전보건공단",
+      "department": "AI디지털전략실 디지털계획부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 상업적 이용금지 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "5"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15125648",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15125648/fileData.do",
+    "title": null,
+    "description_long": "산불위험예보분석이미지 데이터는 전국의 3일 예보 기상 데이터(기온, 상대습도, 실효습도, 풍속, 강수량)와 지형(사면방향, 고도), 임상(침엽수, 활엽수, 혼효림) 등 빅데이터 정보를 이용하여 향후 3일간 전국의 산불이 발생할 위험을 1-100까지의 지수로 산출하여 색상으로 표출한 데이터입니다.- 산불위험지수는 정도에 따라 매우 높음(86이상, 빨강), 높음(66-85, 주황), 다소높음(51-65, 노랑), 낮음(51미만, 파랑)의 위험등급 4단계로 위험등급(색상)으로 구분- 1시간에 이미지 1장으로 데이터가 제공 되며 제공 주기는 월별",
+    "classification": {
+      "category_main": "농림 - 임업·산촌",
+      "provider_type": "산림청 국립산림과학원"
+    },
+    "resources_meta": {
+      "extension": "PNG",
+      "media_type": "이미지",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "산림청 국립산림과학원",
+      "department": "연구기획과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "7"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15090146",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15090146/fileData.do",
+    "title": null,
+    "description_long": "본 데이터는 한 달간 광양항에서 컨테이너 차량의 일자별 이동 대수 및 평균 소요 시간을 기록한 통계입니다. 차량 이동량과 평균 운송시간을 통해 일별 물류 흐름의 밀집도, 혼잡도, 처리 속도를 파악할 수 있으며, 항만 운영 효율성 분석과 교통관리 정책 수립에 유용한 기초자료로 활용됩니다.",
+    "classification": {
+      "category_main": "교통및물류 - 해운·항만",
+      "provider_type": "여수광양항만공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "여수광양항만공사",
+      "department": "경영지원부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "31",
+      "download_count": "4"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15078044",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15078044/fileData.do",
+    "title": null,
+    "description_long": "서울특별시 마포구의 등록장애인 현황에 대한 정보입니다. 이 데이터에는 등록장애인의 구체적인 행정 구역 정보(예: 시도명, 시군구명)와 함께, 장애유형(예: 간, 뇌병변, 뇌전증, 시각, 신장, 심장, 안면, 언어 등), 장애정도(심한 또는 심하지않은), 장애인 수 등의 통계가 포함되어 있습니다.  이 데이터를 통해 지역별 장애인 분포를 파악하고, 복지서비스 수요와 정책 대상자 규모를 예측하는 데 활용할 수 있습니다.또한 장애유형별 현황을 기반으로 시각장애인을 위한 보행로 개선, 청각장애인을 위한 공공서비스 정보 접근성 확대 등 실제적인 생활 밀착형 정책을 설계할 수 있습니다. 나아가 민간 기관, 복지단체, 연구기관에서도 이 데이터를 활용하여 지역사회 통합 돌봄, 장애인 고용, 교육 접근성 개선 등 다양한 분야에서 협업하고 실질적인 지원 방안을 마련하는 데 기초 자료로 삼을 수 있습니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 국가통계",
+      "provider_type": "서울특별시 마포구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "서울특별시 마포구",
+      "department": "스마트정책과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2021-03-23",
+      "updated_at": "2026-02-26",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "122"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15090158",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15090158/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 광양항의 시간대별 평균 차량 출입량을 월 기준으로 정리한 통계로, 하루 24시간을 기준으로 차량 대수와 이용빈도 순위를 제공합니다. 이를 통해 항만의 교통 혼잡 시간대를 분석하고, 출입 통제, 물류 분산, 기반시설 운영 계획 수립에 활용할 수 있습니다. 특히 물류 집중 시간대 파악 및 항만 운영 효율성 향상에 기여할 수 있는 기초 자료입니다.",
+    "classification": {
+      "category_main": "교통및물류 - 해운·항만",
+      "provider_type": "여수광양항만공사"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "여수광양항만공사",
+      "department": "경영지원부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "24",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15077228",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15077228/fileData.do",
+    "title": null,
+    "description_long": "광주환경공단 공공시설의 개방 정보에 대한 데이터로, 공단이 운영하는 승촌보 캠핑장, 승촌보 축구장, 승촌보 주차장, 영산강 자전거길 안내센터, 효천하수처리장 멀티스타디움 등 주요 공공시설의 이용 관련 정보를 제공합니다. 데이터에는 각 시설의 휴관일, 사용료, 신청방법, 소재지, 담당부서 등의 항목이 포함되어 있어 시민들이 시설 이용에 필요한 정보를 사전에 확인하고 편리하게 이용할 수 있도록 구성되어 있습니다. 본 데이터는 시설별 이용 접근성 향상, 공공자원의 효율적 운영, 민원 예방 및 행정 서비스 품질 제고를 위한 기초자료로도 활용될 수 있습니다",
+    "classification": {
+      "category_main": "문화체육관광 - 문화체육관광일반",
+      "provider_type": "광주환경공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주환경공단",
+      "department": "인사재무팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "5",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15084726",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15084726/fileData.do",
+    "title": null,
+    "description_long": "< 데이터 설명 >- 데이터명 : 한국중소벤처기업유통원 지원사업(중소기업전용판매장, 홈쇼핑판매대행) 카테고리별 매출비중 현황 차트이미지- 데이터 설명 : 2020년 이후 한국중소벤처기업유통원의 중소기업전용판매장_판판듀티프리샵(면세점) 및 홈쇼핑판매대행 지원사업의 판매 품목 카테고리별 매출비중 정보를 차트 형태로 제공합니다.< 판매품목 카테고리 >- 판판 DUTY FREE SHOP : 뷰티/전자기기/패션잡화/식품/기념품- 홈쇼핑 지원사업 : 의류속옷/생활용품/가전,컴퓨터/레저스포츠/주방/침구/패션잡화/가구/식품건강/화장품/교육아동",
+    "classification": {
+      "category_main": "산업·통상·중소기업 - 산업·중소기업일반",
+      "provider_type": "주식회사한국중소벤처기업유통원"
+    },
+    "resources_meta": {
+      "extension": "PNG",
+      "media_type": "이미지",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "주식회사한국중소벤처기업유통원",
+      "department": "디지털전략팀",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-26",
+      "updated_at": "2026-02-26",
+      "update_cycle": "월간"
+    },
+    "stats": {
+      "row_count": "1",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15063415",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15063415/fileData.do",
+    "title": null,
+    "description_long": "한국장애인고용공단 고용개발원(EDI)은 국내 장애인 고용 사업의 지속적인 발전을 위해서 급변하는 고용 환경 변화에 따른 요구들에 대해 이론적, 실증적 해결방안을 모색하는 연구개발 사업을 수행하고 있습니다. 한국장애인고용공단_장애인 고용 연구보고서 목록은 고용개발원에서 수행한 장애인 고용 정책 관련  연구보고서 목록(기본과제, 현안과제)입니다. 본 연구서에는 장애인 고용 정책과 관련한 다양한 내용들을 담고 있으며, 연구보고서 및 자료 원문 데이터는 고용개발원 홈페이지(edi.kead.or.kr > EDI Report > 각 보고서 카테고리별 분류에서 검색)에서 확인할 수 있습니다.",
+    "classification": {
+      "category_main": "사회복지 - 고용노동",
+      "provider_type": "한국장애인고용공단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국장애인고용공단",
+      "department": "운영관리부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-24",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "359",
+      "download_count": "0"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15149525",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15149525/fileData.do",
+    "title": null,
+    "description_long": "연번",
+    "classification": {
+      "category_main": "교육 - 고등교육",
+      "provider_type": "한국장학재단"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국장학재단",
+      "department": "AI데이터전략부",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-09-16",
+      "updated_at": "2026-02-26",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "11386",
+      "download_count": "109"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15100401",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15100401/fileData.do",
+    "title": null,
+    "description_long": "연도",
+    "classification": {
+      "category_main": "문화체육관광 - 관광",
+      "provider_type": "전라남도 해남군"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "전라남도 해남군",
+      "department": "총무과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2022-05-23",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "11",
+      "download_count": "394"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15033909",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15033909/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 지역 내 태양광 발전 설비의 설치 현황을 제공하는 자료로, 설치 장소와 발전용량(KW) 등의 핵심 정보를 포함하고 있습니다. 이를 통해 국민은 지역별 신재생에너지 활용 현황을 쉽게 확인할 수 있으며, 행정기관은 친환경 에너지 정책 수립과 에너지 수급 계획 수립의 기초 자료로 활용할 수 있습니다. 또한 본 데이터는 지속 가능한 에너지 확대 및 탄소중립 목표 달성에 기여할 수 있으며, 연구기관과 기업은 에너지 산업 동향 분석 및 투자 계획 수립에 참고할 수 있습니다. 데이터 기준일이 포함되어 있어 최신성과 신뢰성을 확보하고, 공공데이터 개방을 통해 에너지 정책의 투명성을 높이며 대국민 이해도를 제고하는 데 활용됩니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "전라남도 광양시"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "전라남도 광양시",
+      "department": "디지털정보과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2025-09-24",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "11",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15105542",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15105542/fileData.do",
+    "title": null,
+    "description_long": "한국디자인진흥원이 운영하는 디자인 전문 플랫폼 디자인DB에 아카이브된 한국 디자인 모티브 중 신앙 카테고리의 게시글 목록을 제공하는 데이터입니다. 아카이브 > 한국 디자인 모티브 > 신앙( https://www.designdb.com/?menuno=1323&access=menu#gsc.tab=0) 내에서 원본을 확인할 수 있으며 마을신앙, 무속신앙의 대분류로 구성되어 있습니다. 공식 자료가 거의 존재하지 않고 단어의 정의와 실제 이미지 간의 매치가 필요한 전통 신앙 관련 업무에서 도움을 받을 수 있는 데이터입니다.",
+    "classification": {
+      "category_main": "문화체육관광 - 문화예술",
+      "provider_type": "한국디자인진흥원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "한국디자인진흥원",
+      "department": "디지털정보화실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 상업적 이용금지 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2022-08-26",
+      "updated_at": "2026-02-25",
+      "update_cycle": "수시 (1회성 데이터)"
+    },
+    "stats": {
+      "row_count": "27",
+      "download_count": "1556"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15116979",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15116979/fileData.do",
+    "title": null,
+    "description_long": "재개발·재건축 사업은 노후·불량 건축물이 밀집한 지역의 주거환경을 개선하고 도시 기능을 회복하기 위해 시행하는 정비사업입니다.재개발사업은 노후·불량 건축물이 밀집한 지역의 주거환경을 종합적으로 개선하기 위해 기존 건축물을 철거하고 새로 주택을 건설하는 사업입니다.재건축사업은 기존 공동주택(아파트 등)이 노후화된 경우 이를 철거하고 동일 부지에 다시 건설하는 사업입니다.해당 사업을 통해 노후·위험 건축물 정비, 주거환경 개선, 도시 미관 향상, 기반시설 확충,주택 공급 확대 등을 이룰 수 있습니다.관내에서 추진 중인 재개발·재건축 정비사업의 추진 현황을 국민에게 투명하게 공개하고자 합니다.정비사업과 관련한 주요 절차 진행 여부 및 현황을 한눈에 확인할 수 있도록 정리하였으며,주민·토지등소유자·이해관계인의 정보 접근성을 높이고 행정의 투명성을 제고하는 것을 목적으로 합니다.이후 인가·변경·취소 등 행정처분이 이루어진 경우 실제 현황과 차이가 있을 수 있습니다.",
+    "classification": {
+      "category_main": "지역개발 - 지역및도시",
+      "provider_type": "부산광역시 동래구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "부산광역시 동래구",
+      "department": "건축과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "21",
+      "download_count": "2"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15117946",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15117946/fileData.do",
+    "title": null,
+    "description_long": "부산사회조사 결과 통계표를 통해 시민생활과 시민의식의 실태 및 수준을 종합적으로 파악하여, 시민들이 일상에서 체감하는 삶의 질과 전반적인 복지 수준을 객관적으로 측정하고, 조사 결과를 통해 지역 간 생활 여건의 차이와 사회적 요구를 분석, 이를 부산 지역사회 개발과 복지정책 수립의 기초자료로 활용함으로써 보다 실효성 있는 정책을 마련할 수 있습니다. 나아가 시민 중심의 정책 추진과 지속적인 제도 개선을 통해 시민이 체감할 수 있는 삶의 질 향상과 균형 있는 지역 발전에 기여할 수 있습니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "부산광역시 북구"
+    },
+    "resources_meta": {
+      "extension": "XLSX",
+      "media_type": "텍스트",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "부산광역시 북구",
+      "department": "재무과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2023-08-07",
+      "updated_at": "2026-02-25",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "1904",
+      "download_count": "416"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15153785",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15153785/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 불법 주정차 단속 과정에서 생성된 기록을 바탕으로 부과연도, 단속법정동명, 단속장소, 단속구분, 부과진행상태, 단속일시 항목을 체계적으로 정리한 자료다. 각 단속 건마다 적용된 단속 유형과 실제 확인된 일시, 위치 정보가 포함되어 있어 불법 주정차 발생 상황을 시점별로 파악할 수 있다. 단속법정동명과 단속장소는 위반 사례가 어느 지역에서 반복되는지 확인하는 데 활용 가능하며, 단속일시는 시간대별 단속 효과성을 분석하는 데 도움이 된다. 부과진행상태는 단속 처리 흐름을 이해하는 데 필요한 기본 정보를 제공한다. 본 자료는 단속 건별 행정 처리 정보를 단순화하여 구성한 것으로, 정책 분석과 행정 효율성 검토에 활용될 수 있다.",
+    "classification": {
+      "category_main": "교통및물류 - 도로",
+      "provider_type": "전라남도 광양시"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "전라남도 광양시",
+      "department": "디지털정보과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-19",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "20628",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15026291",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15026291/fileData.do",
+    "title": null,
+    "description_long": "1. 탄소중립 및 기후위기 대응최근 건축물 부문은 국가 온실가스 배출에서 상당한 비중을 차지하는 분야로 인식되고 있습니다. 이에 따라 탄소중립(Net-Zero), 저탄소 건축, 제로에너지건축(ZEB), 녹색건축(Green Building) 등이 주요 정책 의제로 부상하였습니다.본 데이터 중연면적은 건축물의 에너지 소비 총량 추정의 기초값이 되며용도는 건물 유형별 에너지 사용 특성 분석에 활용될 수 있고건폐율·용적률은 도시 밀도와 에너지 집약도 분석의 기초지표로 활용 가능합니다.따라서 본 데이터는 향후 녹색건축 정책 성과 분석, 건축물 에너지 관리 정책 수립, 탄소배출 저감 전략 수립에 활용 가능한 기반자료로 기능할 수 있습니다.2. 주거안정 및 주택공급 확대 정책최근 사회적 이슈 중 하나는 주거안정 및 주택공급 확대입니다. 특히 고밀도 개발, 역세권 복합개발, 도심 내 공급 확대 등이 정책적으로 강조되고 있습니다.용적률은 주택공급 잠재량과 직결되는 핵심 지표이며연면적은 실제 공급 규모를 가늠할 수 있는 기초자료입니다.착공일은 건설경기의 선행지표로서, 주택공급 일정 및 시장 흐름을 분석하는 데 활용 가능합니다.따라서 본 데이터는 주택공급 추세 분석, 개발 집중지역 파악, 정책 효과 검증 등에 중요한 자료가 됩니다.3. 도시재생 및 지역균형발전도시 내 원도심 쇠퇴, 상권 변화, 인구 이동 등의 문제는 지속적인 사회적 이슈입니다.대지위치 정보는 특정 지역의 개발 집중도 및 침체 여부를 공간적으로 분석할 수 있는 기초자료입니다.이를 통해 도시재생사업 대상지 분석, 생활권 단위 개발 현황 파악, 지역 간 개발 격차 분석이 가능합니다.즉, 본 데이터는 도시공간 재편 및 지역균형발전 정책 수립에 활용 가능한 공간 기반 데이터입니다.4. 스마트시티 및 데이터 기반 행정최근 행정 패러다임은 디지털 전환(Digital Transformation) 및 **데이터 기반 정책결정(Data-driven Governan",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "부산광역시 동래구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "부산광역시 동래구",
+      "department": "부산광역시 동래구 안전도시국 건축과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "77",
+      "download_count": "1"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15043289",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15043289/fileData.do",
+    "title": null,
+    "description_long": "이 데이터는 지역 내 집단급식소의 현황을 제공하는 자료로, 업종명, 업소명, 도로명주소, 소재지 전화번호 등의 정보를 포함하고 있습니다. 이를 통해 국민은 학교, 병원, 산업체, 복지시설 등 다양한 집단급식소의 위치와 기본 정보를 확인할 수 있으며, 안전하고 위생적인 급식 환경 조성에 기여할 수 있습니다. 행정기관은 본 데이터를 활용해 급식소 관리 및 위생 점검, 식품 안전 정책 수립에 필요한 기초 자료로 삼을 수 있습니다. 또한 데이터 기준일을 명시하여 최신성과 신뢰성을 확보하고, 공공데이터 개방을 통해 식품 안전 관리의 투명성을 높이며, 국민 건강 보호와 위생 수준 향상에도 기여할 수 있습니다.",
+    "classification": {
+      "category_main": "보건 - 식품의약안전",
+      "provider_type": "전라남도 광양시"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "전라남도 광양시",
+      "department": "디지털정보과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-24",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "187",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15116495",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15116495/fileData.do",
+    "title": null,
+    "description_long": "광주광역시 남구에 반려동물(개, 고양이) 동별 등록 현황 및 정보를 제공합니다.해당 데이터는 광주광역시 남구청 민생경제과(☎062-607-2753)에서 제공합니다.공공데이터는 기준 시점에 따라 변동이 있을 수 있으므로 자세한 정보는 소관 부서에 문의하여 주시기 바랍니다.※ 해당 데이터는 유기·유실 동물 발생을 예방하고 소유권을 확인하며, 동물 보호 정책과 산업 발전에 기여합니다. 지방자치단체는 이를 기반으로 지역별 반려동물 분포 분석, 유기동물 보호소 운영 계획, 동물병원 배치, 마이크로칩 보급 확대 계획 등을 수립할 수 있습니다. 또한 기업과 단체는 사료·용품·보험·서비스 수요를 예측하고 마케팅 전략을 세우는 데 활용할 수 있습니다. 이를 통해 동물복지 향상과 지역사회 반려동물 문화 조성에 기여할 수 있을 것으로 보입니다.",
+    "classification": {
+      "category_main": "농림 - 농업·농촌",
+      "provider_type": "광주광역시 남구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주광역시 남구",
+      "department": "홍보실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-23",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "29",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15045510",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15045510/fileData.do",
+    "title": null,
+    "description_long": "경기도_고양시_생필품요금 데이터는 경기도 고양시 생필품 품목, 기준단위, 점표별 가격 등의 항목에 대한 조사결과를 제공합니다.가. 개인서비스업1) 조사품목 : 35종- 설렁탕, 냉면(물냉면), 비빔밥, 갈비탕, 삼계탕, 김치찌개백반, 된장찌개백반,소불고기, 쇠고기(등심,국내산), 돼지갈비(국내산), 삼겹살(국내산), 자장면, 짬뽕,돈가스, 생선초밥, 치킨, 칼국수, 김밥, 커피(외식), 세탁료, 의복수선료,당구장,노래방, 숙박료(일반호텔), 이용료, 미용료(파마), 목욕탕, 탁구장, 볼링장네일아트, 순대국밥, 뼈해장국, 닭갈비, 부대찌개, 활어회나. 대규모점포 및 전통시장1) 조사품목 : 53종- 쌀 (국내산), 찹쌀(국내산), 보리쌀(국내산), 서리태(국내산), 참깨(국산,수입)양파(까지않은 것), 대파, 쪽파, 무(잎 없는것), 배추(중간크기), 미나리, 알타리마늘(깐마늘), 상추(적상추), 오이(다다기오이), 호박(인큐애호박), 생강(국내산)풋고추, 두부(대), 콩나물, 감자(국내산), 배(신고), 딸기, 참외, 수박, 방울토마토바나나, 사과(부사), 쇠고기(한우등심 1등급), 돼지고기(국내산 생삼겹살),",
+    "classification": {
+      "category_main": "지역개발 - 지역및도시",
+      "provider_type": "경기도 고양시"
+    },
+    "resources_meta": {
+      "extension": "XLSX",
+      "media_type": "기타",
+      "delivery_type": "기관자체에서 다운로드(제공데이터URL기재)"
+    },
+    "provider": {
+      "organization": "경기도 고양시",
+      "department": "고양시청 소상공인지원과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "공공저작물_출처표시 + 변경금지"
+    },
+    "freshness": {
+      "registered_at": "2025-02-15",
+      "updated_at": "2026-02-25",
+      "update_cycle": "수시 (자동 갱신)"
+    },
+    "stats": {
+      "row_count": "53",
+      "download_count": "14"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15139142",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15139142/fileData.do",
+    "title": null,
+    "description_long": "광주광역시 남구 약국 정보(상호명, 소재지, 전화번호 등)을 공개하오니, 정보 탐색 및 업무 추진에 참고하시기 바랍니다.해당 데이터는 광주광역시 남구청 보건행정과(☎062-607-4352)에서 제공하며,전화번호에 개인정보가 포함되어 있는 경우 공란 처리하였음을 알려드립니다.공공데이터는 기준 시점에 따라 변동이 있을 수 있으므로 자세한 정보는 소관 부서에 문의하여 주시기 바랍니다.※ 약국은 의사의 처방전에 따라 조제약을 제공하거나, 일반의약품·건강보조제를 판매하며 주민의 건강 상담을 지원하는 생활 밀착형 의료 서비스 공간입니다. 주민들은 약국을 통해 신속하게 의약품을 구입하고, 복용법이나 부작용에 대한 전문적인 상담을 받을 수 있습니다. 해당 데이터는 약국의 위치, 운영시간, 연락처 등의 정보를 제공하여 주민들이 가까운 약국을 쉽게 찾도록 돕습니다. 지자체는 이를 기반으로 지역별 의약품 접근성을 분석하고, 공공보건 정책 수립과 응급약품 공급 체계를 개선할 수 있습니다. 민간에서는 지도 서비스, 건강관리 앱, 의약품 유통 연구 등 다양한 분야에 응용할 수 있으며, 학계에서는 지역 의료 인프라 연구 자료로 활용됩니다.",
+    "classification": {
+      "category_main": "보건 - 보건의료",
+      "provider_type": "광주광역시 남구"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "광주광역시 남구",
+      "department": "홍보실",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-23",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "107",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15017299",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15017299/fileData.do",
+    "title": null,
+    "description_long": "보건복지부 국립소록도병원 영양급식 정보는 소록도병원에 입원중인 한센인 환자대상으로 제공되는 환자식 메뉴 정보로 식단 제공일 기준으로 각 식사(아침/점심/저녁)별 식단 구성 내용을 제공합니다.본 데이터는 일자별 식사 구분(아침, 점심, 저녁) 및 식사에 포함된 개별 메뉴명으로 구성되어 있으며, 영양관리 및 식단 계획 수립, 식단표작성 등의 목적으로 활용될 수 있습니다.※ 환자의 건강 상태, 질환 특성에 따라 식단이 달라질 수 있으며, 동일 일자 내에 복수의 메뉴가 제공됩니다.※ 원산지, 알레르기 정보는 포함하지 않습니다.",
+    "classification": {
+      "category_main": "사회복지 - 사회복지일반",
+      "provider_type": "보건복지부 국립소록도병원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "보건복지부 국립소록도병원",
+      "department": "기획운영과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "5503",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  },
+  {
+    "source": "datagokr_crawl",
+    "source_id": "15075554",
+    "item_type": "fileData",
+    "canonical_url": "https://www.data.go.kr/data/15075554/fileData.do",
+    "title": null,
+    "description_long": "보건복지부 국립소록도병원 직원식단정보는 소록도병원에 근무중인 직원과 방문자를 대상으로 제공되는 직원식단 메뉴 정보로 식단 제공일 기준으로 각 식사(아침/점심/저녁)별 식단 구성 내용을 제공합니다.본 데이터는 일자별 식사 구분(아침, 점심, 저녁) 및 식사에 포함된 개별 메뉴명으로 구성되어 있으며, 영양관리 및 식단 계획 수립, 식단표 작성 등의 목적으로 활용될 수 있습니다.※ 동일 일자 내에 복수의 메뉴가 제공되며 식당 운영상황에 따라 조식, 공휴일, 주말 등의 데이터가 존재하지 않을 수 있습니다.※ 원산지, 알레르기 정보는 포함하지 않습니다.",
+    "classification": {
+      "category_main": "일반공공행정 - 일반행정",
+      "provider_type": "보건복지부 국립소록도병원"
+    },
+    "resources_meta": {
+      "extension": "CSV",
+      "media_type": "텍스트",
+      "delivery_type": "공공데이터포털에서 다운로드(원문파일등록)"
+    },
+    "provider": {
+      "organization": "보건복지부 국립소록도병원",
+      "department": "기획운영과",
+      "phone": ""
+    },
+    "license": {
+      "scope_text": "이용허락범위 제한 없음"
+    },
+    "freshness": {
+      "registered_at": "2026-02-25",
+      "updated_at": "2026-02-25",
+      "update_cycle": "연간"
+    },
+    "stats": {
+      "row_count": "4185",
+      "download_count": "3"
+    },
+    "access": {
+      "cost_flag": "무료",
+      "cost_unit": "건"
+    },
+    "schema": {
+      "columns": []
+    }
+  }
+]
